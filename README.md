@@ -1,6 +1,5 @@
-# PolygonID Flutter SDK Example App
+# Wallet
 
-Demonstrates how to use the polygonid_flutter_sdk plugin.
 
 **Contents**
 1. [Setup](#setup)
